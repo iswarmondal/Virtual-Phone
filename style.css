@@ -41,6 +41,8 @@
     align-self: center;
     display: flex;
     justify-content: center;
+    position: absolute;
+    transform: translateY(-1px);
 }
 
 #speaker {
